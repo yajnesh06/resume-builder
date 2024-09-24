@@ -18,6 +18,8 @@ A dynamic web application built with **React** and **Shadcn**, designed for user
 - Multiple customizable templates to choose from.
 - Download resumes in PDF format.
 - Fully responsive design for mobile and desktop users.
+- You have an ability to choose your own fonts.
+- Custom font size available.
 
 ## Installation
 1. Clone the repository:
