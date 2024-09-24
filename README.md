@@ -1,4 +1,6 @@
 # React + Vite
+Access the site here:
+https://yajnesh06.github.io/resume-builder/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
