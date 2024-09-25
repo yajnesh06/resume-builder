@@ -14,7 +14,7 @@ const fonts = ['Arial', 'Garamond', 'Times New Roman', 'Roboto', 'Courier', 'Hel
 const fontSizes = ['12', '14', '16', '18','20', '22','24']
 
 const initialResumeData = {
-  personalInfo: { name: '', email: '', phone: '', location: '', linkedin: '', website: '' },
+  personalInfo: { name: '', email: '', phone: '', location: '', linkedin: '', github: '' },
   objective: '',
   education: [{ degree: '', institution: '', year: '' }],
   skills: { technical: '', soft: '', other: '' },
@@ -582,7 +582,7 @@ export default function Component() {
               <div className="text-center mb-6">
                 <h1 className="text-2xl font-bold uppercase">{resumeData.personalInfo.name}</h1>
                 <p className="break-words">{resumeData.personalInfo.phone} • {resumeData.personalInfo.location}</p>
-                <p className="break-words">{resumeData.personalInfo.email} • {resumeData.personalInfo.linkedin} • {resumeData.personalInfo.website}</p>
+                <p className="break-words">{resumeData.personalInfo.email} • {resumeData.personalInfo.linkedin} • {resumeData.personalInfo.github}</p>
               </div>
 
               {resumeData.objective && (
