@@ -1,4 +1,8 @@
-# React + Vite
+
+# Resume Builder Web App
+
+Access the site here:
+https://yajnesh06.github.io/resume-builder/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -9,7 +13,6 @@ Currently, two official plugins are available:
 
 ## Getting Started
 
-# Resume Builder
 
 A dynamic web application built with **React** and **Shadcn**, designed for users to build, customize, and download resumes in PDF format with real-time previews.
 
@@ -18,6 +21,8 @@ A dynamic web application built with **React** and **Shadcn**, designed for user
 - Multiple customizable templates to choose from.
 - Download resumes in PDF format.
 - Fully responsive design for mobile and desktop users.
+- You have an ability to choose your own fonts.
+- Custom font size available.
 
 ## Installation
 1. Clone the repository:
